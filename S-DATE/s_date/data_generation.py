@@ -6,6 +6,7 @@ from sklearn.metrics.pairwise import pairwise_distances
 from sklearn.preprocessing import MinMaxScaler
 import matplotlib.pyplot as plt
 import seaborn as sns
+from .visualization import visualize_data
 
 def dimRed(features, method='PCA'):
     # Perform dimensionality reduction
