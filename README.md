@@ -57,6 +57,7 @@ synthetic_data = generate_synthetic_data(
     closest_samples=10
 )
 ```
+```
 # Please cite:
 Rustam, F., Jurcut, A.D., Aljedaani, W. and Ashraf, I., 2023, August. Securing multi-environment networks using versatile synthetic data augmentation technique and machine learning algorithms. In 2023 20th Annual International Conference on Privacy, Security and Trust (PST) (pp. 1-10). IEEE.
 
