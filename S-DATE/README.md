@@ -1,6 +1,6 @@
 # S-DATE Library
 
-The S-DATE (Synthetic Data Generation using Distance-Averaged Techniques) library provides functionality for generating synthetic data through a unique approach that leverages dimensionality reduction and distance-based sample averaging.
+The S-DATE (Synthetic Data Augmentation TEchnique) library provides functionality for generating synthetic data through a unique approach that leverages dimensionality reduction and distance-based sample averaging.
 
 ## Features
 
