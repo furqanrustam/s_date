@@ -49,7 +49,7 @@ def generate_synthetic_data(features, num_samples=100, dim_reduction_method='PCA
             if len(generated_samples) >= num_samples:
                 break  # Stop if we have generated the required number of samples
             
-            print(f"Processing sample {l + 1}...")
+            #print(f"Processing sample {l + 1}...")
 
             # Calculate pairwise distances for the current point using the specified distance metric
             distances = pairwise_distances(reduced_features[l:l+1, :], reduced_features, metric=distance_metric).flatten()
