@@ -17,7 +17,7 @@ To install the S-DATE library, follow these steps:
 1. Clone this repository:
     ```bash
     git clone https://github.com/yourusername/s_data.git
-    cd s_data
+    cd s_date
     ```
 
 2. Install the library in editable mode:
