@@ -1,6 +1,7 @@
 # s_data/visualization.py
 import seaborn as sns
 import matplotlib.pyplot as plt
+from sklearn.decomposition import PCA
 
 def visualize_data(original_data, synthetic_data):
     """Visualize means, standard deviations, PCA, and correlation matrices of original and synthetic data."""
